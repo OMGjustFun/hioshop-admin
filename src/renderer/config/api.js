@@ -1,5 +1,5 @@
 // const rootUrl = 'http://www.hiolabs.com:8360/admin/';
-const rootUrl = 'https://server.lnimpossible.xyz/admin/';
+const rootUrl = 'http://42.192.210.104:8360/admin/';
 
 const api = {
     rootUrl : rootUrl,
